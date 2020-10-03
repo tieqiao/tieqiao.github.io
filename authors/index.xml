@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | TIEQIAO&#39;S HOMEPAGE</title>
+    <link>http://tieqiao.github.io/authors/</link>
+      <atom:link href="http://tieqiao.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 24 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://tieqiao.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>http://tieqiao.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title>J. Dong</title>
+      <link>http://tieqiao.github.io/authors/j.-dong/</link>
+      <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://tieqiao.github.io/authors/j.-dong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Niu</title>
+      <link>http://tieqiao.github.io/authors/s.-niu/</link>
+      <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://tieqiao.github.io/authors/s.-niu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. **Wang**</title>
+      <link>http://tieqiao.github.io/authors/t.-wang/</link>
+      <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://tieqiao.github.io/authors/t.-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Y. Chen</title>
+      <link>http://tieqiao.github.io/authors/y.-chen/</link>
+      <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://tieqiao.github.io/authors/y.-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H. Yang</title>
+      <link>http://tieqiao.github.io/authors/h.-yang/</link>
+      <pubDate>Sat, 24 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>http://tieqiao.github.io/authors/h.-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>X. Gao</title>
+      <link>http://tieqiao.github.io/authors/x.-gao/</link>
+      <pubDate>Sat, 24 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>http://tieqiao.github.io/authors/x.-gao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>X. Zhou</title>
+      <link>http://tieqiao.github.io/authors/x.-zhou/</link>
+      <pubDate>Sat, 24 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>http://tieqiao.github.io/authors/x.-zhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://tieqiao.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://tieqiao.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I am interested in machine learning, computer vision and data science and looking for graduate research opportunities at OSU.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
