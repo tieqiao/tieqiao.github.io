@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TIEQIAO&#39;S HOMEPAGE</title>
+    <link>http://tieqiao.github.io/</link>
+      <atom:link href="http://tieqiao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>TIEQIAO&#39;S HOMEPAGE</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://tieqiao.github.io/img/icon-192.png</url>
+      <title>TIEQIAO&#39;S HOMEPAGE</title>
+      <link>http://tieqiao.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Weakly-supervised retinal detachment segmentation using deep feature propagation learning in SD-OCT images</title>
+      <link>http://tieqiao.github.io/publication/conference-paper2/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://tieqiao.github.io/publication/conference-paper2/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quantitative Estimation of Rainfall Rate Intensity Based on Deep Convolutional Neural Network and Radar Reflectivity Factor</title>
+      <link>http://tieqiao.github.io/publication/conference-paper/</link>
+      <pubDate>Sat, 24 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>http://tieqiao.github.io/publication/conference-paper/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;img src=&#34;./index_3_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./index_4_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./index_5_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
